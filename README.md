@@ -31,7 +31,8 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/sohail945/Bank-document-analyzer.git
+git clone https://github.com/DevMoazAI/Bank_Document_Analyzer.git
+
 cd Bank-document-analyzer
 
 # 2. Create and activate virtual environment
